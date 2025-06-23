@@ -1,0 +1,1 @@
+{"name":"Local: 11","url":"c:\\code\\SummerSession\\Exercise1\\11.MeanVariance.cpp","tests":[{"id":1750667295635,"input":"7\n1 2 3 4 5 6 7\n4\n1 2 3 4\n0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\SummerSession\\Exercise1\\11.MeanVariance.cpp","group":"local","local":true}

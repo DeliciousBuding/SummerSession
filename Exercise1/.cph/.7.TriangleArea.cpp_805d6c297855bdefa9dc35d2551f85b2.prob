@@ -1,0 +1,1 @@
+{"name":"Local: 7","url":"c:\\code\\SummerSession\\Exercise1\\7.TriangleArea.cpp","tests":[{"id":1750644251774,"input":"1 2 3 4 -2 8\n0 0 0 1 1 0\n0 0 0 0 0 0","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\SummerSession\\Exercise1\\7.TriangleArea.cpp","group":"local","local":true}
