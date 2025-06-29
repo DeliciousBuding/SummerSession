@@ -1,0 +1,1 @@
+{"name":"Local: 17","url":"c:\\code\\SummerSession\\Exercise2\\17.LudoChess.cpp","tests":[{"id":1751192649151,"input":"7 1 0 6\nN G3 N N N N N\n7 1 0 6\nN G4 N N N N N","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\SummerSession\\Exercise2\\17.LudoChess.cpp","group":"local","local":true}
