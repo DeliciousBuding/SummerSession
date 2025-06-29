@@ -1,0 +1,1 @@
+{"name":"Local: 15","url":"c:\\code\\SummerSession\\Exercise2\\15.TelephoneNumber.cpp","tests":[{"id":1750993845057,"input":"4\nivan 3 123 123 456\nivan 2 456 456\nivan 8 789 3 23 6 56 9 89 2\ndasha 2 23 789","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\SummerSession\\Exercise2\\15.TelephoneNumber.cpp","group":"local","local":true}

@@ -119,6 +119,8 @@ int main()
     sort(players1.begin(), players1.end(), cmp1);
     sort(players2.begin(), players2.end(), cmp2);
 
+
+    
     cout << players1[0].name << endl
          << players2[0].name << endl;
 }

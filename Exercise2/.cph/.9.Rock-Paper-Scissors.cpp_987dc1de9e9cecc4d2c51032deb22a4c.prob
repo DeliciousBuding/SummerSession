@@ -1,0 +1,1 @@
+{"name":"Local: 9","url":"c:\\code\\SummerSession\\Exercise2\\9.Rock-Paper-Scissors.cpp","tests":[{"id":1750826268897,"input":"10\nC J\nJ B\nC B\nB B\nB C\nC C\nC B\nJ B\nB C\nJ J","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\SummerSession\\Exercise2\\9.Rock-Paper-Scissors.cpp","group":"local","local":true}
