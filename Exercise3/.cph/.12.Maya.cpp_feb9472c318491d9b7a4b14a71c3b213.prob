@@ -1,0 +1,1 @@
+{"name":"Local: 12","url":"c:\\code\\SummerSession\\Exercise3\\12.Maya.cpp","tests":[{"id":1751420970192,"input":"3\n10.zac 0\n0.pop 0\n10.zac 1995","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\code\\SummerSession\\Exercise3\\12.Maya.cpp","group":"local","local":true}
